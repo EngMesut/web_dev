@@ -1,0 +1,22 @@
+h1{
+ color: darkblue;
+ text-align: center;
+
+}
+h2{
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    font-size: large;
+
+
+}
+a{
+    line-height: 10px;
+    text-decoration: none;
+
+}
+
